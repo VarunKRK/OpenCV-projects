@@ -28,7 +28,7 @@ import matplotlib.pyplot as plt
 ```
 ### Notes
 
-Next, have to load the image, here with `openCV` when we load the image it will load it as a `BGR` image so have to convert it into `RGB` image for further image processing, so we use a funtion called `cvtColor`. Here it goes..
+Next, have to load the image, here with `openCV` when we load the image it will load it as a `BGR` image so have to convert it into `RGB` image for further image processing, so we use a funtion called `cvtColor`. 
 ```python
 image = cv.imshow('image path in system')
 # converting to RGB
