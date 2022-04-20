@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 ### 🚀 *How to use*
 
-Initially we to import the libraries
+Initially we have to import the libraries
 ```python
 import cv2 as cv
 import numpy as np
